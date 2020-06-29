@@ -19,8 +19,8 @@ Para executar esses aplicativos, você deverá:
 
 # :hammer: Aplicativos
 Fazem parte deste projeto os seguintes aplicativos: </br>
-[Server](https://github.com/diegodls/nwl-01_ecoleta_server/tree/master) - Desenvolvido em Typescript.
-[Mobile](https://github.com/diegodls/nwl-01_ecoleta_mobile) - Desenvolvido em React Native, utilizando Typescript. </br>
+[Server](https://github.com/diegodls/nwl-01_ecoleta_server/tree/master) - Desenvolvido em Typescript.</br>
+[Mobile](https://github.com/diegodls/nwl-01_ecoleta_mobile) - Desenvolvido em React Native, utilizando Typescript. 
 
 # :nut_and_bolt: Módulos
 Neste projeto foram utilizado os seguintes módulos:</br>
